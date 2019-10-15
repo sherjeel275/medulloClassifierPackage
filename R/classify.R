@@ -20,7 +20,6 @@
 #'
 
 library(reshape2)
-source("~/medulloPackage/R/signatureGenes.R")
 
 classify <- function(exprs = NULL)
 {
