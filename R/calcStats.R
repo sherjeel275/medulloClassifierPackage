@@ -40,7 +40,6 @@ library(GSVA)
 library(caret)
 library(lattice)
 library(preprocessCore)
-source("~/medulloPackage/R/calcScore.R")
 
 
 calcStats <- function(myClassActual = NULL, myClassPred = NULL) {
